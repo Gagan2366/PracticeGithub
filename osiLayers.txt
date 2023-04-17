@@ -1,0 +1,15 @@
+The OSI (Open Systems Interconnection) model is a conceptual framework that describes how different networking technologies and protocols interact with each other. The OSI model consists of seven layers, each with a specific function:
+
+Physical Layer: This is the lowest layer in the OSI model and is responsible for the physical transmission of data over a communication channel. It defines the physical characteristics of the transmission medium, such as the voltage levels, signaling rate, and connector type.
+
+Data Link Layer: This layer is responsible for the reliable transmission of data over a physical link. It performs tasks such as error detection and correction, flow control, and framing.
+
+Network Layer: The network layer is responsible for the transmission of data between different networks. It provides services such as addressing, routing, and congestion control.
+
+Transport Layer: The transport layer is responsible for the reliable transmission of data between end systems. It provides services such as segmentation, flow control, and error recovery.
+
+Session Layer: The session layer is responsible for establishing, managing, and terminating sessions between applications. It provides services such as session establishment, synchronization, and checkpointing.
+
+Presentation Layer: The presentation layer is responsible for the representation and transformation of data between different applications. It provides services such as data compression, encryption, and data format conversion.
+
+Application Layer: The application layer is the highest layer in the OSI model and is responsible for providing services to end users. It includes protocols such as HTTP, SMTP, and FTP.
