@@ -13,3 +13,5 @@ Session Layer: The session layer is responsible for establishing, managing, and 
 Presentation Layer: The presentation layer is responsible for the representation and transformation of data between different applications. It provides services such as data compression, encryption, and data format conversion.
 
 Application Layer: The application layer is the highest layer in the OSI model and is responsible for providing services to end users. It includes protocols such as HTTP, SMTP, and FTP.
+
+Each layer in the OSI model has a specific function and communicates with adjacent layers using well-defined interfaces. By using a layered approach, the OSI model provides a framework for designing and implementing networking protocols and technologies that can work together in a standardized way.
